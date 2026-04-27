@@ -5,18 +5,18 @@ This repository is used to organise research materials for the REIT6811 project:
 ## Repository Structure
 
 - `01_Literature_Review/`: Stores journal articles, web sources, and background materials related to generative AI in education.
-- `02_Quantitative_Analysis/`: Stores survey questions, raw survey data, cleaned survey data, analysis scripts, and survey analysis outputs.
-- `03_Qualitative_Analysis/`: Stores interview protocols, interview transcripts, consent forms, insights reports, and qualitative visualisations.
-- `04_Drafts_and_Reports/`: Stores research proposals, conference outlines, draft reports, and final reports.
-- `05_Additional_Materials/`: Stores information sheets, photos, screenshots, and other media files.
+- `02_Quantitative_Analysis/`: Stores survey questions, raw survey data, cleaned survey data, analysis scripts, and data visualisations.
+- `03_Qualitative_Analysis/`: Stores interview transcripts and other qualitative research materials.
+- `04_Drafts_and_Reports/`: Stores conference outlines, draft reports, framework outlines, final reports, and final submission files.
+- `05_Additional_Materials/`: Stores project images, screenshots, and other supporting media.
 
 ## How to Navigate the Files
 
-Start with `01_Literature_Review/` to review the background sources. Use `02_Quantitative_Analysis/` for survey-based data and scripts, and `03_Qualitative_Analysis/` for interview-related materials. Drafts and final written outputs are stored in `04_Drafts_and_Reports/`.
+Start with `01_Literature_Review/` to review the background sources. Use `02_Quantitative_Analysis/` for survey-based files, scripts, tables, and visualisations. Use `03_Qualitative_Analysis/` for interview-related materials. Drafts and final written outputs are stored in `04_Drafts_and_Reports/`, while images and screenshots are stored in `05_Additional_Materials/`.
 
 ## Naming Convention
 
-Files follow this structure:
+Files follow this naming structure:
 
 `YYYYMMDD_ProjectName_FileType_Description_Author_Version`
 
@@ -24,10 +24,12 @@ Example:
 
 `20260427_GenerativeAI_FinalReport_Qianhui_Ren_v1.pdf`
 
+This naming convention helps team members quickly identify the date, project, file type, author, and version of each file.
+
 ## Collaboration Guidelines
 
-Future collaborators should use clear file names, place files in the correct folders, and write meaningful commit messages. Major changes should be committed separately so the project history remains easy to track.
+Future collaborators should place files in the correct folders, use the agreed naming convention, and write meaningful commit messages. Major changes should be committed separately so that the project history remains clear and traceable.
 
 ## Data Management Note
 
-GitHub is useful for organising documents, code, and version history. However, in a real research project, sensitive participant-related data such as raw survey responses, interview transcripts, consent forms, and identifiable photos should not be uploaded to GitHub. These files should be stored securely in UQRDM or UQ Research Drive with restricted access.
+GitHub is useful for organising documents, scripts, and version history. However, in a real research project, sensitive participant-related data such as raw survey responses, interview transcripts, consent forms, and identifiable photos should not be uploaded to GitHub. These files should be stored securely in UQRDM or UQ Research Drive with restricted access.
